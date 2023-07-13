@@ -3,8 +3,11 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/sh2288/tekken6_PSP_hack/total?label=Downloads)
 ### 这事儿是16年--17年干的 [博客存档](https://blog.sina.com.cn/sh2288)
 ### 相关技术会陆续放出...
+# tekken6 at3音频资源分析(at3 audio file head analysis)
+![](img/psp-tekken6-at3.png)
 ### 仅支持英语日语(Only English & Japanese Worked)
 ![](img/ULUS10466_00000.jpg)
+
 # 版本特性
 
 1. 主菜单音乐替换
