@@ -40,8 +40,3 @@ next version will add this hack(enjoy!)
 10. fix 602 ver some stage load error in battle lobby mode
 11. stage bg changes swich to jpn means go back org bg music
 
-# 支持(Support)
-[Paypal](https://paypal.me/sh228800?country.x=C2&locale.x=zh_XC)
-
-微信
-![](img/QQ%E5%9B%BE%E7%89%8720230621092407.png)
