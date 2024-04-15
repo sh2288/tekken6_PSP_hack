@@ -1,3 +1,6 @@
+# ps3铁拳6 rip 5.2G 去掉全部动画,rpcs3模拟器联机,方便传播
+[百度盘下载](https://pan.baidu.com/s/1hXbpn-QUgEOrMDENiLFJ5A?pwd=ssqb)
+## 重建动画视频数据索引,全部索引到logo动画即可
 # PSP铁拳6_hack修改版(tekken6_PSP_hack)
 [ISO下载地址](https://github.com/sh2288/tekken6_PSP_hack/releases)
 ![GitHub all releases](https://img.shields.io/github/downloads/sh2288/tekken6_PSP_hack/total?label=Downloads)
